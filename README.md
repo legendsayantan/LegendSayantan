@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi 👋 I'm Sayantan
 
-<!--
-**legendsayantan/LegendSayantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my github profile!
 
-Here are some ideas to get you started:
+#### Some info about me -
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm 19 M from West Bengal, India 🇮🇳
+
+Always interested to learn about new tech and programming languages, Love Object-Oriented Programming 💻
+
+Aspiring Android dev with 2years+ experience and looking to do more unique projects to improve lifestyle 🚀
+
+Learning CyberSecurity, Web Security and Expoitation 🕷
+
+Love to teach and explain educational concepts to others and help out ❤
+
+### Find my projects on my webpage [legendsayantan.github.io](https://legendsayantan.github.io)
+
+![](https://profile-counter.glitch.me/legendsayantan/count.svg )
