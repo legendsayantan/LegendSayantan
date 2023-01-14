@@ -14,7 +14,7 @@ Learning CyberSecurity, Web Security and Expoitation 🕷
 
 Love to teach and explain educational concepts to others and help out ❤
 
-### Find more on my webpage [legendsayantan.github.io](https://legendsayantan.github.io)
+### Find more about me on [legendsayantan.github.io](https://legendsayantan.github.io)
 
 | Visitors Count | ![](https://profile-counter.glitch.me/legendsayantan/count.svg) |
 | :-: | :-: |
