@@ -2,7 +2,7 @@
 
 ## Welcome to my github profile!
 
-#### Some info about me -
+### Some info about me -
 
 I'm 19 M from West Bengal, India 🇮🇳
 
