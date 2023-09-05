@@ -4,11 +4,11 @@
 
 ### Some info about me -
 
-I'm 19 M from West Bengal, India 🇮🇳
+I'm 20 M from West Bengal, India 🇮🇳
 
 Always interested to learn about new tech and programming languages, Love Object-Oriented Programming 💻
 
-Aspiring Android dev with 2years+ experience and looking to do more unique projects to improve lifestyle 🚀
+Aspiring Android dev with 3years+ experience and looking to push more boundaries to improve lifestyle 🚀
 
 Learning CyberSecurity, Web Security and Expoitation 🕷
 
