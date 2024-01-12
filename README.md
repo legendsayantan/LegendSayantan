@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sayantan
 
-## Welcome to my github profile!
+#### Welcome to my github profile!
 
 ### Some info about me -
 
