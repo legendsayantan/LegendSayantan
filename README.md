@@ -10,7 +10,7 @@ Always interested to learn about new tech and programming languages, Love Object
 
 Aspiring Android dev with 4years+ experience and looking to push more boundaries to improve lifestyle 🚀
 
-Learning CyberSecurity, Web Security and Expoitation 🕷
+Learning CyberSecurity, Web Security and Exploitation 🕷
 
 Love to teach and explain educational concepts to others and help out ❤
 
