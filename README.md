@@ -4,7 +4,7 @@
 
 ### Some info about me -
 
-I'm 20 M from West Bengal, India 🇮🇳
+20 M Software Engineer from West Bengal, India 🇮🇳
 
 Always interested to learn about new tech and programming languages, Love Object-Oriented Programming 💻
 
