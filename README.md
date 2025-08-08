@@ -21,5 +21,4 @@ My Teachers and Inspirations -
 1. [sayantan.is-a.dev](https://sayantan.is-a.dev)
 2. [legendsayantan.github.io](https://legendsayantan.github.io)
 
-| Visitors Count | ![](https://profile-counter.glitch.me/legendsayantan/count.svg) |
-| :-: | :-: |
+![Profile views](https://counter.kuber.studio/legendsayantan/dark/count.svg)
