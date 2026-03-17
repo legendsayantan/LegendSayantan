@@ -1,4 +1,3 @@
-## Sayantan
 #### Software Engineer · 22 · West Bengal, India
 I build things that run quietly in the background and make an impact when it matters - Android apps, Backends and the occasional security rabbit holes.
 
