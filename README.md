@@ -2,9 +2,9 @@
 I build things that run quietly in the background and make an impact when it matters - Android apps, Backends and the occasional security rabbit holes.
 
 - **Pushing Android past its limits** : Openly for 5 proud years - most of it is pinned below, forkable, and free to use
-- **Build reliable backends** : Spring Boot, JSF, or Node - I focus on how systems hold up under pressure, not just when things go right.
-- **Take databases seriously** : Designing resilient schemas, optimizing for uptime, and keeping data consistent - when rest of the system isn’t.
-- **Treat security as architecture** : Understanding how systems fail is half of building them right - security shapes how I create.
+- **Building reliable backends** : Spring Boot, JSF, or Node - I focus on how systems hold up under pressure, not just when things go right.
+- **Taking databases seriously** : Designing resilient schemas, optimizing for uptime, and keeping data consistent - even if rest of the system isn’t.
+- **Treating security as architecture** : Understanding how systems fail is half of building them right - security shapes how I create.
 
 ### Engineering Inspirations
 
