@@ -1,4 +1,4 @@
-#### Software Engineer · 22 · West Bengal, India
+### Software Engineer · 22 · West Bengal, India
 I build things that run quietly in the background and make an impact when it matters - Android apps, Backends and the occasional security rabbit holes.
 
 - **Pushing Android past its limits** : Openly for 5 proud years - most of it is pinned below, forkable, and free to use
