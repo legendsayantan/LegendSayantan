@@ -21,9 +21,14 @@ My Teachers and Inspirations -
 1. [sayantan.is-a.dev](https://sayantan.is-a.dev)
 2. [legendsayantan.github.io](https://legendsayantan.github.io)
 
-<a href="https://fundware.pages.dev/legendsayantan" target="_blank">
-  <img src="./fundware-light.svg#gh-light-mode-only" alt="Claim Exclusive Benefits via FundWare">
-  <img src="./fundware-dark.svg#gh-dark-mode-only" alt="Claim Exclusive Benefits via FundWare">
-</a>
 
+<a href="https://fundware.pages.dev/legendsayantan/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./fundware-dark.svg">
+    
+    <source media="(prefers-color-scheme: light)" srcset="./fundware-light.svg">
+    
+    <img alt="Claim Exclusive Benefits via FundWare" src="./fundware-light.svg">
+  </picture>
+</a>
 ![Profile views](https://counter.kuber.studio/legendsayantan/dark/count.svg)
